@@ -1,0 +1,6 @@
+[submodule "mixed-messages-codecademy-project"]
+	path = Mixed-Messages-codecademy-project
+	url = https://github.com/elnaddar/Mixed-Messages-codecademy-project
+[submodule "message-mixer-codecademy-project-nodejs"]
+	path = message-mixer-codecademy-project-nodejs
+	url = https://github.com/elnaddar/message-mixer-codecademy-project-nodejs
