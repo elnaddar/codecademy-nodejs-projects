@@ -9,3 +9,7 @@
 [submodule "find-your-hat-codecademy-project-nodejs"]
 	path = find-your-hat-codecademy-project-nodejs
 	url = https://github.com/elnaddar/find-your-hat-codecademy-project-nodejs
+
+[submodule "film-finder-codecademy-project-nodejs"]
+	path = film-finder-codecademy-project-nodejs
+	url = https://github.com/elnaddar/film-finder-codecademy-project-nodejs
