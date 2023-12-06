@@ -13,3 +13,7 @@
 [submodule "film-finder-codecademy-project-nodejs"]
 	path = film-finder-codecademy-project-nodejs
 	url = https://github.com/elnaddar/film-finder-codecademy-project-nodejs
+
+[submodule "quote-api-codecademy-project-nodejs"]
+	path = quote-api-codecademy-project-nodejs
+	url = https://github.com/elnaddar/quote-api-codecademy-project-nodejs
