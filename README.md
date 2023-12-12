@@ -11,3 +11,4 @@ This repo lists my `codecademy` nodejs projects.
 
 ## Express
 - [Quote API project](https://github.com/elnaddar/quote-api-codecademy-project-nodejs)
+- [Boss Machine project](https://github.com/elnaddar/boss-machine-codecademy-project-nodejs)

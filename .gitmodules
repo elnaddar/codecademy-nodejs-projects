@@ -17,3 +17,7 @@
 [submodule "quote-api-codecademy-project-nodejs"]
 	path = quote-api-codecademy-project-nodejs
 	url = https://github.com/elnaddar/quote-api-codecademy-project-nodejs
+
+[submodule "boss-machine-codecademy-project-nodejs"]
+	path = boss-machine-codecademy-project-nodejs
+	url = https://github.com/elnaddar/boss-machine-codecademy-project-nodejs
