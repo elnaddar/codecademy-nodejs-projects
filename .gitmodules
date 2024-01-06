@@ -25,3 +25,7 @@
 [submodule "personal-budget-codecademy-project-nodejs"]
 	path = personal-budget-codecademy-project-nodejs
 	url = https://github.com/elnaddar/personal-budget-codecademy-project-nodejs
+
+[submodule "inventory-database-codecademy-postgresql"]
+	path = inventory-database-codecademy-postgresql
+	url = https://github.com/elnaddar/inventory-database-codecademy-postgresql
