@@ -17,3 +17,4 @@ This repo lists my `codecademy` nodejs projects.
 ## PostgreSQL
 - [Building an Inventory Database with PostgreSQL](https://github.com/elnaddar/inventory-database-codecademy-postgresql) (working with "PRIMARY and FOREIGN keys, CHECK, NOT NULL, UNIQUE" constraints.)
 - [Data Exchange Service](https://github.com/elnaddar/data-exchange-service-codecademy-postgres-roles) (working with ROLEs and its privileges.)
+- [Intermediate Book Store Indexes](https://github.com/elnaddar/intermediate-book-store-indexes-codecademy-postgresql) (working with Indexes, multi-column indexes, partial indexes, clustered and -non clustered indexes.)

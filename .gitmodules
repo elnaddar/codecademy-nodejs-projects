@@ -33,3 +33,7 @@
 [submodule "data-exchange-service-codecademy-postgres-roles"]
 	path = data-exchange-service-codecademy-postgres-roles
 	url = https://github.com/elnaddar/data-exchange-service-codecademy-postgres-roles
+
+[submodule "intermediate-book-store-indexes-codecademy-postgresql"]
+	path = intermediate-book-store-indexes-codecademy-postgresql
+	url = https://github.com/elnaddar/intermediate-book-store-indexes-codecademy-postgresql
