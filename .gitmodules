@@ -37,3 +37,7 @@
 [submodule "intermediate-book-store-indexes-codecademy-postgresql"]
 	path = intermediate-book-store-indexes-codecademy-postgresql
 	url = https://github.com/elnaddar/intermediate-book-store-indexes-codecademy-postgresql
+	
+[submodule "database-normalization-at-freds-furniture-codecademy-postgresql"]
+	path = database-normalization-at-freds-furniture-codecademy-postgresql
+	url = https://github.com/elnaddar/database-normalization-at-freds-furniture-codecademy-postgresql
