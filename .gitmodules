@@ -40,4 +40,8 @@
 	
 [submodule "database-normalization-at-freds-furniture-codecademy-postgresql"]
 	path = database-normalization-at-freds-furniture-codecademy-postgresql
-	url = https://github.com/elnaddar/database-normalization-at-freds-furniture-codecademy-postgresql
+	url = https://github.com/elnaddar/database-normalization-at-freds-furniture-codecademy-postgresql	
+
+[submodule "authentication-project-nodejs"]
+	path = authentication-project-nodejs
+	url = https://github.com/elnaddar/authentication-project-nodejs

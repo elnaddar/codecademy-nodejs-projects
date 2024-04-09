@@ -19,3 +19,6 @@ This repo lists my `codecademy` nodejs projects.
 - [Data Exchange Service](https://github.com/elnaddar/data-exchange-service-codecademy-postgres-roles) (working with ROLEs and its privileges.)
 - [Intermediate Book Store Indexes](https://github.com/elnaddar/intermediate-book-store-indexes-codecademy-postgresql) (working with Indexes, multi-column indexes, partial indexes, clustered and -non clustered indexes.)
 - [Database Normalization at Fred's Furniture](https://github.com/elnaddar/database-normalization-at-freds-furniture-codecademy-postgresql) (database normalization.)
+
+## Espress with PostgresSQL
+- [Authentication Project in Node.js](https://github.com/elnaddar/authentication-project-nodejs) (working with passport-local, express-session, ejs, bcrypt.)
